@@ -1,0 +1,21 @@
+public enum ApiLanguage
+{
+    arAE,
+    deDE,
+    enUS,
+    esES,
+    esMX,
+    frFR,
+    idID,
+    itIT,
+    jaJP,
+    koKR,
+    plPL,
+    ptBR,
+    ruRU,
+    thTH,
+    trTR,
+    viVN,
+    zhCN,
+    zhTW
+}
